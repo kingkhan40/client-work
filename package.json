@@ -1,5 +1,5 @@
 {
-  "name": "Page",
+  "name": "client-work",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,7 +12,7 @@
     "react-router-dom": "^6.15.0",
     "react-scripts": "5.0.1",
     "react-scroll": "^1.9.0",
-    "react-typed": "^1.2.0",
+    "react-typed": "^2.0.12",
     "swiper": "^6.8.4"
   },
   "scripts": {
