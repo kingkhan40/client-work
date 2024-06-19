@@ -146,7 +146,7 @@ const Header = () => {
           activeStyle={{ color: 'blue' }}
           onClick={closeNavbar}
         >
-          Our Tect Stack
+          Our Tech Stack
         </Link>
       
       </nav>
