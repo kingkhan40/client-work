@@ -1,5 +1,5 @@
 import React from 'react';
-import { Typed } from 'react-typed';
+import { ReactTyped } from "react-typed";
 
 const About = () => {
   return (
@@ -7,7 +7,7 @@ const About = () => {
       <div className="content" data-aos="fade-left" data-aos-delay="600">
         <h4 style={{fontSize: '18px'}}>Building Digital Health</h4>
         <h3>
-          <Typed
+          <ReactTyped
             strings={[
               'Frontend Developer',
               'Backend Developer',
